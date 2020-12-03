@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Node.js projects.
+- 🌱 I’m currently learning Node.js and Express.
+- 👯 I’m looking to collaborate on ... I am open to collaboration!
+- 🤔 I’m looking for help with learning how to maintain the backend of a pre-existing Drupal site.
+- 💬 Ask me about how to bake the most amazing challah bread!
+- 📫 How to reach me: djabranton@gmail.com
+- ⚡ Fun fact: I've run over 20 marathons!
+
 <!--
 **webprinc3ss/webprinc3ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
