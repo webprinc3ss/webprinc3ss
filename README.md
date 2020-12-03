@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Node.js projects.
 - 🌱 I’m currently learning Node.js and Express.
-- 👯 I’m looking to collaborate on ... I am open to collaboration!
+- 👯 I am open to collaboration! Send me ideas.  My strong suit is the look and feel.  I will help your vision come in to existence.
 - 🤔 I’m looking for help with learning how to maintain the backend of a pre-existing Drupal site.
 - 💬 Ask me about how to bake the most amazing challah bread!
 - 📫 How to reach me: djabranton@gmail.com
