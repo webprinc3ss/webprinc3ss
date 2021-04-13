@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Node.js projects.
 - 🌱 I’m currently learning React and php for WordPress.
-- 👯 I am open to collaboration! Send me ideas.  My strong suit is the look and feel.  I will help your vision come in to existence.
+- 👯 I am open to collaboration! Send me ideas.  My strong suit frontend and turning and artist's vision in to reality.
 - 💬 Ask me about how to bake the most amazing challah bread!
 - 📫 How to reach me: djabranton@gmail.com
 - ⚡ Fun fact: I've run over 20 marathons!
